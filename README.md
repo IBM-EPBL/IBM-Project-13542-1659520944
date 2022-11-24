@@ -4,4 +4,4 @@
 
 <h2>Web Deployment Link : https://smart-lender-ibm.onrender.com/<h2>
   
-<h2>Application Demo Video Link : https://drive.google.com/file/d/1NerfHMdJ3KKg9tfmm9uFow9zL4YsqbvC/view?usp=share_link/<h2> 
+<h2>Application Demo Video Link : https://drive.google.com/file/d/1NerfHMdJ3KKg9tfmm9uFow9zL4YsqbvC/view?usp=share_link<br><br>https://youtu.be/SaMAJqiPTJE/<h2> 
